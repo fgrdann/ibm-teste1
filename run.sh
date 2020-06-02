@@ -1,0 +1,1 @@
+java -cp "lib/json.jar;bin" -Dfile.encoding=UTF8 com.teste.main.Teste1
