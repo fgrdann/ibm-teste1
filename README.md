@@ -1,9 +1,6 @@
 
 # IBM - Teste técnico #1
-Executar o arquivo **run.sh** ou o comando
-```
-java -cp "lib/json.jar;bin" -Dfile.encoding=UTF8 com.teste.main.Teste1
-```
+
 ### Requisição inicial
 A requisição inicial passa como parâmetro page=1, por padrão. Dela são extraídos valores como total de resultados, para inicialização do Array **titles**, página atual (igual a 1) e total de páginas, o que determina as próximas iterações.
 ### Estrutura de repetição
